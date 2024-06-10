@@ -1,0 +1,14 @@
+.video-item {
+  background-color: #e1e1e1;
+  display: flex;
+  gap: 4px;
+  margin: 10px 0px;
+}
+
+.thumbnail {
+  width: min(100%, 400px);
+}
+.content {
+  display: flex;
+  flex-direction: column;
+}
